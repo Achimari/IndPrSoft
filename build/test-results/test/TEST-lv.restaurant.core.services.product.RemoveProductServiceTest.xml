@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lv.restaurant.core.services.product.RemoveProductServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:11" hostname="DESKTOP-O7BBCNE" time="0.029">
+  <properties/>
+  <testcase name="shouldDeleteProductByName" classname="lv.restaurant.core.services.product.RemoveProductServiceTest" time="0.025"/>
+  <testcase name="shouldReturnErrorWhenSearchIsNull" classname="lv.restaurant.core.services.product.RemoveProductServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

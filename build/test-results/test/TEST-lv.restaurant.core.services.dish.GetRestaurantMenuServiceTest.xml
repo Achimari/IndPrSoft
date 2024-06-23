@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lv.restaurant.core.services.dish.GetRestaurantMenuServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:11" hostname="DESKTOP-O7BBCNE" time="0.008">
+  <properties/>
+  <testcase name="shouldReturnAllDishes" classname="lv.restaurant.core.services.dish.GetRestaurantMenuServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

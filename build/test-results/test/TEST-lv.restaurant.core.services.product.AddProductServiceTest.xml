@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lv.restaurant.core.services.product.AddProductServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:11" hostname="DESKTOP-O7BBCNE" time="0.095">
+  <properties/>
+  <testcase name="shouldSuccessfullyAdd" classname="lv.restaurant.core.services.product.AddProductServiceTest" time="0.09"/>
+  <testcase name="shouldReturnResponseWithErrorsWhenValidatorFails" classname="lv.restaurant.core.services.product.AddProductServiceTest" time="0.004"/>
+  <system-out><![CDATA[New product was added to the list.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:12" hostname="DESKTOP-O7BBCNE" time="0.033">
+  <properties/>
+  <testcase name="shouldReturnErrorIfEmailDoNotContainSymbol" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.005"/>
+  <testcase name="shouldReturnErrorsIfEmailAndPasswordAreEmpty" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.001"/>
+  <testcase name="shouldReturnEmptyErrorList" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.002"/>
+  <testcase name="shouldReturnErrorIfEmailIsAlreadyTaken" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.003"/>
+  <testcase name="shouldReturnErrorIfPasswordIsEmpty" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.004"/>
+  <testcase name="shouldReturnErrorIfPasswordIsShort" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.005"/>
+  <testcase name="shouldReturnErrorIfNameIsEmpty" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.003"/>
+  <testcase name="shouldReturnErrorsIfEmailIsEmpty" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.004"/>
+  <testcase name="shouldReturnErrorIfSurnameIsEmpty" classname="lv.restaurant.core.services.user.validators.RegistrationValidatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
