@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="lv.restaurant.core.services.product.validators.RemoveProductValidatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:11" hostname="DESKTOP-O7BBCNE" time="0.009">
-  <properties/>
-  <testcase name="shouldRemoveProduct" classname="lv.restaurant.core.services.product.validators.RemoveProductValidatorTest" time="0.003"/>
-  <testcase name="shouldReturnErrorWhenSearchedNameIsNull" classname="lv.restaurant.core.services.product.validators.RemoveProductValidatorTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

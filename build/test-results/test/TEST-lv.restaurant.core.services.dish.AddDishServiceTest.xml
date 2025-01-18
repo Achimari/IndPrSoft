@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="lv.restaurant.core.services.dish.AddDishServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-09T13:15:11" hostname="DESKTOP-O7BBCNE" time="0.147">
-  <properties/>
-  <testcase name="shouldReturnResponseWithErrorsWhenValidationFails" classname="lv.restaurant.core.services.dish.AddDishServiceTest" time="0.12"/>
-  <testcase name="shouldAddDishToDatabase" classname="lv.restaurant.core.services.dish.AddDishServiceTest" time="0.026"/>
-  <system-out><![CDATA[New dish was added to the list.
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
